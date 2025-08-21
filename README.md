@@ -16,6 +16,7 @@ Krav enligt uppgiften:
 - Strukturerad, kommenterad kod.
 - Redogöra för teknikval, arkitektur, för-/nackdelar.
 
+Lösningen tillfälligt i produktion: https://www.damjantosic.se/samsung-s25-produktkort/
 ---
 
 ## Designlösning
