@@ -87,7 +87,7 @@ Lösningen tillfälligt i produktion: https://www.damjantosic.se/samsung-s25-pro
 4. Utvecklade Web Component med Shadow DOM, skeleton‑UI och renderingslogik.
 5. Test i WordPress (Themify Ultra) med WP‑proxy för `simple` API.
 6. Iterationer: fix av bilder, pris, energimärkning (A/B för S25/S25+), hover‑effekter, CTA som öppnar PDP.
-7. Slutresultat: komplett `samsung-product-cards.js v1.3.3`.
+7. Slutresultat: komplett `samsung-product-cards.js v1.3.7`.
 
 ---
 
